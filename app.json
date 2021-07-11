@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "weather-app-version2",
+    "githubUrl": "https://github.com/tunggary/weather-app-version2"
   }
 }
